@@ -1,0 +1,246 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "edad": 30,
+      "materias": [
+        {
+          "nombre": "Matematica",
+          "horas": 10
+        },
+        {
+          "nombre": "Fisica",
+          "horas": 5
+        }
+      ],
+      "id": "8a68"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "edad": 35,
+      "materias": [
+        {
+          "nombre": "Quimica",
+          "horas": 8
+        },
+        {
+          "nombre": "Biologia",
+          "horas": 6
+        }
+      ],
+      "id": "b90e"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Lopez",
+      "edad": 40,
+      "materias": [
+        {
+          "nombre": "Historia",
+          "horas": 7
+        },
+        {
+          "nombre": "Geografia",
+          "horas": 4
+        }
+      ],
+      "id": "3972"
+    },
+    {
+      "id": "742b",
+      "nombre": "Luis Manuel",
+      "apellido": "Santos Vargas",
+      "edad": 65,
+      "materias": [
+        {
+          "nombre": "Programacion",
+          "horas": 10
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Luis",
+      "apellido": "Gonzalez",
+      "edad": 15,
+      "materias": [
+        {
+          "nombre": "Matematica",
+          "nota": 8
+        },
+        {
+          "nombre": "Fisica",
+          "nota": 7
+        },
+        {
+          "nombre": "Quimica",
+          "nota": 9
+        },
+        {
+          "nombre": "Biologia",
+          "nota": 6
+        },
+        {
+          "nombre": "Historia",
+          "nota": 7
+        },
+        {
+          "nombre": "Geografia",
+          "nota": 8
+        },
+        {
+          "nombre": "Ingles",
+          "nota": 9
+        },
+        {
+          "nombre": "Frances",
+          "nota": 10
+        }
+      ],
+      "id": "a47f"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "Gomez",
+      "edad": 16,
+      "materias": [
+        {
+          "nombre": "Matematica",
+          "nota": 7
+        },
+        {
+          "nombre": "Fisica",
+          "nota": 8
+        },
+        {
+          "nombre": "Quimica",
+          "nota": 9
+        },
+        {
+          "nombre": "Biologia",
+          "nota": 6
+        },
+        {
+          "nombre": "Historia",
+          "nota": 7
+        },
+        {
+          "nombre": "Geografia",
+          "nota": 8
+        },
+        {
+          "nombre": "Ingles",
+          "nota": 9
+        },
+        {
+          "nombre": "Frances",
+          "nota": 10
+        }
+      ],
+      "id": "5fe9"
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Rodriguez",
+      "edad": 17,
+      "materias": [
+        {
+          "nombre": "Matematica",
+          "nota": 8
+        },
+        {
+          "nombre": "Fisica",
+          "nota": 7
+        },
+        {
+          "nombre": "Quimica",
+          "nota": 9
+        },
+        {
+          "nombre": "Biologia",
+          "nota": 6
+        },
+        {
+          "nombre": "Historia",
+          "nota": 7
+        },
+        {
+          "nombre": "Geografia",
+          "nota": 8
+        },
+        {
+          "nombre": "Ingles",
+          "nota": 9
+        },
+        {
+          "nombre": "Frances",
+          "nota": 10
+        }
+      ],
+      "id": "6d26"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Lopez",
+      "edad": 18,
+      "materias": [
+        {
+          "nombre": "Matematica",
+          "nota": 8
+        },
+        {
+          "nombre": "Fisica",
+          "nota": 7
+        },
+        {
+          "nombre": "Quimica",
+          "nota": 9
+        },
+        {
+          "nombre": "Biologia",
+          "nota": 6
+        },
+        {
+          "nombre": "Historia",
+          "nota": 7
+        },
+        {
+          "nombre": "Geografia",
+          "nota": 8
+        },
+        {
+          "nombre": "Ingles",
+          "nota": 9
+        },
+        {
+          "nombre": "Frances",
+          "nota": 10
+        }
+      ],
+      "id": "f8b8"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "1A",
+      "profesor": "Juan Perez",
+      "alumnos": [
+        "Luis Gonzalez",
+        "Ana Gomez"
+      ],
+      "id": "5c12"
+    },
+    {
+      "nombre": "2A",
+      "profesor": "Maria Gomez",
+      "alumnos": [
+        "Carlos Rodriguez",
+        "Maria Lopez"
+      ],
+      "id": "7c7a"
+    }
+  ]
+}
